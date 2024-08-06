@@ -1,0 +1,6 @@
+@ShofyAPI_HostAddress = http://localhost:5058
+
+GET {{ShofyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
